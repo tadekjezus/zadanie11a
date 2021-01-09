@@ -1,1 +1,2 @@
 galaz mastr : pierwsza rewizja
+galaz branch02 :kolejna rewizja
